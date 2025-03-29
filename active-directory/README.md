@@ -1,7 +1,7 @@
 #Active Directory
 
-Common issues and resolutions for Windows 10 endpoints.
+Active Directory 
 
-- [Cannot Connect to Wi-Fi](./cannot-connect-to-wifi.md)
+- [Reset Password](./reset-user-password.md)
 - [Black Screen After Login](./black-screen-after-login.md)
 - [Printer Won’t Install via IP](./printer-wont-install.md)
