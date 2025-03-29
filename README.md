@@ -18,3 +18,6 @@ A collection of how-tos, troubleshooting steps, and procedures for Helpdesk tech
 
 - [Windows 10](./windows-10)
 - [Active Directory](./active-directory)
+- [Microsoft 365](./microsoft-365)
+- [Microsoft Entra ID](./microsoft-entra)
+- [Microsoft Intune](./microsoft-intune)
