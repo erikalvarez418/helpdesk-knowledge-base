@@ -12,3 +12,4 @@
 
 - [Add Group to Shared Folder Permissions](./add-group-to-shared-folder-permissions.md)
 - [Create a Security Group](./create-security-group.md)
+- [Add User to Group](./add-user-to-group.md)
