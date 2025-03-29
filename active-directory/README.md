@@ -1,6 +1,6 @@
 # Active Directory
 
-Active Directory 
+## User Managment 
 
 - [Creating a New User](./create-new-user.md)
 - [Unlock User Account](./unlock-user-account.md)
