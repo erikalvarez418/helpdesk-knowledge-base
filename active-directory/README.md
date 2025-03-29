@@ -10,5 +10,5 @@
 
 ## Group & Permissions Management
 
--[Add Group to Shared Folder Permissions](./add-group-to-shared-folder-permissions.md)
--[Create a Security Group](./create-security-group.md)
+- [Add Group to Shared Folder Permissions](./add-group-to-shared-folder-permissions.md)
+- [Create a Security Group](./create-security-group.md)
