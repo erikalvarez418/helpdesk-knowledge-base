@@ -1,4 +1,4 @@
-```markdown
+
 # How to Add a Group to a Shared Folder’s Permissions
 
 ## Summary
