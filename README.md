@@ -5,7 +5,10 @@ A collection of how-tos, troubleshooting steps, and procedures for Helpdesk tech
 
 - Windows 10
 - Active Directory
-- Microsoft 365 (Outlook, Teams, SharePoint)
+- Microsoft 365
+  - Outlook
+  - Teams
+  - SharePoint)
 - Entra ID (Azure AD)
 - Microsoft Intune
 
