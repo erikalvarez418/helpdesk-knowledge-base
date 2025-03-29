@@ -8,7 +8,7 @@ A collection of how-tos, troubleshooting steps, and procedures for Helpdesk tech
 - Microsoft 365
   - Outlook
   - Teams
-  - SharePoint)
+  - SharePoint
 - Entra ID (Azure AD)
 - Microsoft Intune
 
