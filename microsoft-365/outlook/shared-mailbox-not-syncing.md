@@ -44,17 +44,17 @@ User reports they cannot see recent emails or changes in a shared mailbox. This 
    ```
 
 2. **Manually Add as Additional Account**
-  -Instead of relying on auto-mapping:
-  -Go to File > Add Account
-  -Enter the shared mailbox email address
-  -Sign in if prompted (use delegated access if required)
-  -The shared mailbox will appear as a separate account with full mailbox functionality
+  - Instead of relying on auto-mapping:
+  - Go to File > Add Account
+  - Enter the shared mailbox email address
+  - Sign in if prompted (use delegated access if required)
+  - The shared mailbox will appear as a separate account with full mailbox functionality
 
 3. **Check Permissions in Microsoft 365 Admin Center**
-  -Go to https://admin.microsoft.com
-  -Navigate to Groups > Shared mailboxes
-  -Select the mailbox and confirm the user has:
-  -✅ Full Access
-  -✅ Send As (if needed)
+  - Go to https://admin.microsoft.com
+  - Navigate to Groups > Shared mailboxes
+  - Select the mailbox and confirm the user has:
+  - ✅ Full Access
+  - ✅ Send As (if needed)
 Click Edit next to each permission type to adjust
 Changes can take 15–30 minutes to take effect
