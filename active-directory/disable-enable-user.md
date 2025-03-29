@@ -38,9 +38,13 @@ Disabling a user account temporarily prevents login access without deleting the 
 
 ## PowerShell Commands
 
+### Enable Account:
+```powershell 
+Enable-ADAccount -Identity username
+
+```
 ### Disable Account:
 ```powershell
 Disable-ADAccount -Identity username
 
-### Disable Account:
-Enable-ADAccount -Identity username
+```
