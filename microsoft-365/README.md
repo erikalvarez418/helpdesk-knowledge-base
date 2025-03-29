@@ -1,3 +1,3 @@
 # Microsoft 365
 
-- [Outlook Issues](./Outlook)
+- [Outlook Issues](./outlook/README.md)
