@@ -17,3 +17,4 @@ A collection of how-tos, troubleshooting steps, and procedures for Helpdesk tech
 ## 📂 Sections
 
 - [Windows 10](./windows-10)
+- [Active Directory](./active-directory)
