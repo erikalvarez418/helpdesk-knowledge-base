@@ -23,7 +23,7 @@ User is unable to install a network printer using an IP address. The printer may
    - Open `Control Panel > Devices and Printers > Add a printer`
    - Click “The printer that I want isn’t listed”
    - Select “Add a printer using a TCP/IP address or hostname”
-   - Enter the IP address > Choose “Generic Network Card” if unsure > Use existing driver or manual `.inf` file
+   - Enter the IP address > Use existing driver or manual `.inf` file
 
 ---
 
