@@ -8,7 +8,8 @@ A collection of how-tos, troubleshooting steps, and procedures for Helpdesk tech
 ## 📂 General Helpdesk 
 
 - [General Knowledge](./general-helpdesk)
-
+- [Standard Operation Proceedures](./technician-sops)
+  
 ## 📂 Windows 10
 
 - [Windows 10](./windows-10)
