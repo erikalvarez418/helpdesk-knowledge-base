@@ -37,12 +37,12 @@ Creating a new user account in Active Directory is a standard onboarding task. T
 
 ## Post-Creation Tasks
 
-### ✅ Add to Security/Distribution Groups
+### Add to Security/Distribution Groups
 1. Right-click the user > **Properties**
 2. Go to **Member Of** tab > Click **Add**
 3. Enter group names (e.g., `Domain Users`, `HR Shared Drive Access`, `Helpdesk`)
 
-### ✅ Set Department, Job Title, Etc. (Optional)
+### Set Department, Job Title, Etc. (Optional)
 - Still in **Properties**, go to the **Organization** tab
 - Enter **Title**, **Department**, **Manager** if required
 
