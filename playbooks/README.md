@@ -4,7 +4,7 @@ This directory contains escalation playbooks for handling critical or complex IT
 
 ---
 
-## 🔌 Network & Connectivity
+## Network & Connectivity
 
 - [Network Down / Site-Wide Outage](./network-down-site-outage.md)
 - [Intermittent Wi-Fi Issues](./intermittent-wifi-issues.md)
@@ -12,7 +12,7 @@ This directory contains escalation playbooks for handling critical or complex IT
 
 ---
 
-## 📧 Email & Microsoft 365
+## Email & Microsoft 365
 
 - [Email Delivery Failure](./email-delivery-failure.md)
 - [Shared Mailbox Permission Issue](./shared-mailbox-permission-issue.md)
@@ -20,7 +20,7 @@ This directory contains escalation playbooks for handling critical or complex IT
 
 ---
 
-## 🔐 Security & Account Access
+## Security & Account Access
 
 - [User Reports Phishing Email](./user-reports-phishing-email.md)
 - [Account Locked Out Repeatedly](./account-locked-out-repeatedly.md)
@@ -28,7 +28,7 @@ This directory contains escalation playbooks for handling critical or complex IT
 
 ---
 
-## 📘 How to Use These
+## How to Use These
 
 Each playbook includes:
 - Common symptoms and user reports
