@@ -28,6 +28,13 @@ This directory contains escalation playbooks for handling critical or complex IT
 
 ---
 
+## 🖨️ Printers & Peripherals
+
+- [Printer Not Printing (Network)](./printer-not-printing-network.md)
+- [Scan to Email Not Working](./scan-to-email-not-working.md)
+
+---
+
 ## How to Use These
 
 Each playbook includes:
