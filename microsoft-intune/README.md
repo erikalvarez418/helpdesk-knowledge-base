@@ -3,8 +3,8 @@
 
 ### General 
 
-- [Reset MFA](./reset-mfa.md)
-- [User Can't Login](./user-cannot-login.md)
-- [Conditional Access Block](./conditional-access-block.md)
-- [Entra ID User Group Membership](./entra-id-user-group-membership.md)
-- [Account Not Syncing](./account-stale-or-not-syncing.md)
+- [Create Win32 App](./create-win32-app.md)
+- [App Not Deploying](./app-not-deploying.md)
+- [Device Not Checking In](./device-not-checking-in.md)
+- [Policy Not Applying](./policy-not-applying.md)
+- [Reenroll Device](./reenroll-device.md)
