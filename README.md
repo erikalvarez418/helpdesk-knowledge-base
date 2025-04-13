@@ -8,7 +8,7 @@ A collection of how-tos, troubleshooting steps, and procedures for Helpdesk tech
 ## 📂 General Helpdesk 
 
 - [General Knowledge](./general-helpdesk/readme.md)
-- [Standard Operation Procedures](./technician-sops)
+- [Standard Operation Procedures](./technician-sops/README.md)
   
 ## 📂 Windows 10
 
