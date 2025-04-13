@@ -5,6 +5,10 @@ A collection of how-tos, troubleshooting steps, and procedures for Helpdesk tech
 
 ---
 
+## 📂 General Helpdesk 
+
+- [General Knowledge](./general-helpdesk)
+
 ## 📂 Windows 10
 
 - [Windows 10](./windows-10)
