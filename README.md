@@ -9,6 +9,7 @@ A collection of how-tos, troubleshooting steps, and procedures for Helpdesk tech
 
 - [General Knowledge](./general-helpdesk/readme.md)
 - [Standard Operation Procedures](./technician-sops/README.md)
+- [Esculation Playbooks](./playbooks/README.md)
   
 ## 📂 Windows 10
 
