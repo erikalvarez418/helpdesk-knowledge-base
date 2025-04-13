@@ -1,8 +1,12 @@
-# Windows 10 Troubleshooting
+# General Helpdesk Knowledge
 
-Common issues and resolutions for Windows 10 endpoints.
+Things you should know as a Helpdesk Technician
 
-- [Cannot Connect to Wi-Fi](./cannot-connect-to-wifi.md)
-- [Black Screen After Login](./black-screen-after-login.md)
-- [Printer Won’t Install via IP](./printer-wont-install.md)
-- [Printer Offline](./printer-shows-offline.md)
+- [Troubleshooting Checklist](./troubleshooting-checklist.md)
+- [Documenting a Ticket](./documenting-a-ticket.md)
+- [SLA Response Priority Guide](./sla-response-priority-guide.md)
+- [Ticket Esculation Guidlines](./ticket-escalation-guidelines.md)
+- [Onboarding Users](./onboarding-user.md)
+- [Offboarding Users](./offboarding-user.md)
+- [Remote Support Tools](./offboarding-user.md)
+
