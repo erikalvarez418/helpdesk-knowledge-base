@@ -28,10 +28,26 @@ This directory contains escalation playbooks for handling critical or complex IT
 
 ---
 
-## 🖨️ Printers & Peripherals
+## Printers & Peripherals
 
 - [Printer Not Printing (Network)](./printer-not-printing-network.md)
 - [Scan to Email Not Working](./scan-to-email-not-working.md)
+
+---
+
+## Device & OS Issues
+
+- [Blue Screen Errors (BSOD)](./blue-screen-errors-bsod.md)
+- [Device Unresponsive or Frozen](./device-unresponsive-or-frozen.md)
+- [Windows Update Failing](./windows-update-failing.md)
+
+---
+
+## Helpdesk Process Playbooks
+
+- [Onboarding Delay or Blocked](./onboarding-escalation.md)
+- [Software Installation Failure](./software-installation-failure.md)
+- [Ticket Ownership Conflict](./ticket-assignment-conflict.md)
 
 ---
 
@@ -45,5 +61,3 @@ Each playbook includes:
 - Communication priorities and best practices
 
 Use these during live incidents or as a reference when building SOPs or training materials.
-
----
