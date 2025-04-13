@@ -12,19 +12,19 @@ A collection of how-tos, troubleshooting steps, and procedures for Helpdesk tech
   
 ## 📂 Windows 10
 
-- [Windows 10](./windows-10)
+- [Windows 10](./windows-10/README.md)
 
 ## 📂 Active Directory 
 
-- [Active Directory](./active-directory)
+- [Active Directory](./active-directory/README.md)
 
 ## 📂 M365 (Outlook, Excel, etc)
 
-- [Microsoft 365](./microsoft-365)
+- [Microsoft 365](./microsoft-365/README.md)
 
 ## 📂 Microsoft Entra ID
 
-- [Microsoft Entra ID](./microsoft-entra)
+- [Microsoft Entra ID](./microsoft-entra/README.md)
 
 ## 📂 Microsoft Intune
-- [Microsoft Intune](./microsoft-intune)
+- [Microsoft Intune](./microsoft-intune/README.md)
